@@ -1,2 +1,4 @@
 git y github
 Angular 9
+React JD
+Sass
